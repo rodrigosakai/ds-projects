@@ -1,11 +1,10 @@
 # Welcome to my Data Science repository!
 
-Here I will be uploading projects with some exploratory data analysis and predictive modeling in the form of Jupyter Notebooks.
+Since I've always enjoyed learning by practicing (no wonder why I ended up loving programming as soon as I got in touch with it), I use this repository to upload my side projects on Data Analysis and Predictive Modeling. The datasets I use are usually on Kaggle.
 
-Most of the datasets employed to perform the analysis are from Kaggle.
+If you have any comments, suggestions, or critics on the analysis on this repository, please feel free to contact me!
 
 Thanks for your visit.
 
 Rodrigo
-
  
